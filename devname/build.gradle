@@ -77,7 +77,7 @@ publishing {
     publications {
         maven(MavenPublication){
             groupId = "com.github.brijesh-ide"
-            artifactId = "FirstDependency"
+            artifactId = "devname"
             version = "1.0.0"
             pom {
                 description = 'FirstDependency'
